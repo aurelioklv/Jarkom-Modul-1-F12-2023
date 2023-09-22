@@ -6,10 +6,30 @@
 | Rano Noumi Sulistyo | 5025211185 | 
 
 ## 1. Lorem ipsum dolor sit amet
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/f6e19bf6-1e84-4c86-ab32-a03cc2fff10b)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/16896318-e130-4519-aebb-34b4c8bcb4ce)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/9bca1d89-cf36-4490-9bf0-338291acc7d4)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/d0579735-4f55-45ca-9947-a2d0ea05d2d1)
+
 ## 2. Lorem ipsum dolor sit amet
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/ac648486-21d8-409b-a669-2244eeda00b6)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/c974f07e-873f-4a3b-a082-7ea8815ffdbe)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/6640fee7-fa71-4306-a2ba-ac3ffc4bc8da)
+
 ## 3. Lorem ipsum dolor sit amet
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/9ea8e461-ef04-4311-936c-a850a02b73da)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/e1cd44ed-ccb0-4a1c-b7c9-aec7e3165eed)
+
 ## 4. Lorem ipsum dolor sit amet
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/99659fb5-ca0d-41e7-b18a-3eb48e4295d6)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/8584bd47-9c75-41b7-9f60-e2dc4a9773eb)
+
 ## 5. Lorem ipsum dolor sit amet
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/adc0d4a6-466f-4049-a642-c87bdf7d8275)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/2007d75f-8983-4a81-8c44-98365ba06cea)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/1ffc90de-08e5-4f70-8ceb-a67eaf7deda1)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/e93a7c7b-e89f-4b38-81e3-3c8414a512fb)
+
 ## 6. Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggemar film detektif. sebagai teman yang baik, Ia selalu mengajak slamet untuk bermain valoranT bersama. suatu malam, terjadi sebuah hal yang tak terdUga. ketika udin mereka membuka game tersebut, laptop udin menunjukkan sebuah field text dan Sebuah kode Invalid bertuliskan "**server SOURCE ADDRESS 7812 is invalid**". ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. jiwa detektif slamet pun bergejolak. bantulah udin dan slamet untuk menemukan solusi kode error tersebut.
 Clue:
 - Kata-kata yang memuat huruf kapital: ["Seorang", "Udin", "Berteman", "SlameT", "Ia", "valoranT", "terdUga", "Sebuah", dan "Invalid"]. Huruf-huruf tersebut membentuk kata "SUBSTITUSI".
@@ -40,4 +60,6 @@ Paket yang menuju ip tersebut dapat dicari menggunakan display filter ```ip.dst 
 ![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/565354e3-8a26-4804-86be-c63d2846a5ed)
 
 ## 10. Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
-
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/e87cba4b-d8d7-4624-a112-d1e4e0471ea1)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/4ca3fa8a-b2f4-4781-8f1b-cf2825aa7921)  
+![image](https://github.com/aurelioklv/Jarkom-Modul-1-F12-2023/assets/87407047/53909635-1e4a-4b9c-b8dd-1511909e96fc)
